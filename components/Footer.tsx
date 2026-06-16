@@ -23,6 +23,17 @@ export function Footer() {
         <div className="text-sm text-white/60">
           <p>{contactEmail}</p>
           <p className="mt-4 text-xs">© {new Date().getFullYear()} JACKFRUIT CO.</p>
+          <p className="mt-1 text-xs">
+            Designed &amp; developed by{" "}
+            <a
+              href="https://aurnobb.dev/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium text-white/80 underline-offset-4 transition-colors hover:text-[#ff5231] hover:underline"
+            >
+              Tasneem Aurnobb
+            </a>
+          </p>
         </div>
       </div>
     </footer>
