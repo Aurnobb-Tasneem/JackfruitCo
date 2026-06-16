@@ -31,7 +31,7 @@ export function Footer() {
               rel="noopener noreferrer"
               className="font-medium text-white/80 underline-offset-4 transition-colors hover:text-[#ff5231] hover:underline"
             >
-              Tasneem Aurnobb
+              Aurnobb
             </a>
           </p>
         </div>
